@@ -1,0 +1,2 @@
+id_pessoa,nome_razao,nome_fantasia,cpf,cnpj,iestadual,ind_iedest,sexo,ativo,endereco,numero,complemento,bairro,cidade,uf,cep,telefone,email,observacoes
+990000001,Fulano de Tal 2,Fulano,96683470308,,,,M,true,Rua abc,195,casa,Centro,Porto Alegre,RS,90000000,51-996488505,abc@gmail.com,teste de observacao
